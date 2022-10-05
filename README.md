@@ -35,7 +35,7 @@ $npm start
 ### References
 
 - [react](https://www.reactjs.org/)
-- [node.js](https://www.nodejs.korg/)
+- [node.js](https://www.nodejs.org/)
 
 ### License
 
